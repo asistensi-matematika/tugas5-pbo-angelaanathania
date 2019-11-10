@@ -1,8 +1,8 @@
 # TUGAS 4 ASISTENSI PBO - Jumat, 11 Oktober 2019
 
-NAMA: `isi nama disini`
+NAMA: Angela Nathania
 
-NRP: `isi nrp disini`
+NRP: 06111840000104
 
 ## Deskripsi Tugas
 Buatlah UML diagram sesuai dengan class, object, method dan property yang kamu buat, sebagai referensi untuk memulai:
